@@ -1,16 +1,23 @@
-# myapp
+# SELLER
 
-A new Flutter project.
+This Flutter project is a Product Detail Page that displays detailed information about a product, fetched from a public API. It features a countdown timer for an expiring deal, interactive UI elements, and responsive design considerations.
 
-## Getting Started
+## FEATURES
 
-This project is a starting point for a Flutter application.
+### 1. Real-Time Countdown Timer:
+A countdown timer that updates every second to show when the deal expires.
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Product Information from API:
+Fetches live product data from FakeStoreAPI.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. Dynamic Product Description:
+Displays title, price, discount, and description of the product.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4. Feature Highlights:
+Icons with product features like USB Cable, Surround Sound, Runtime, etc.
+
+### 5. Assurance Badges:
+Highlights like "Genuine Products", "Secure Payments", and more.
+
+### 6. Interactive Buttons:
+Buttons to simulate "Add to Cart" and "Buy Now" functionalities.
